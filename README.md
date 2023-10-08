@@ -6,9 +6,9 @@ PHP 8
 WebServer
 MySQL Database
 
-#Thanks
+# Thanks
 3rd Party Apps:
-Pico CSS
-jQuery
+Pico CSS,
+jQuery,
 Favicon:
 Icons8
